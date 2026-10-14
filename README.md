@@ -1,4 +1,8 @@
-#center Shopify Sales Analysis
+<p align="center">
+  <img src="preview/shopify-logo.png" alt="Shopify Logo" width="100" />
+</p>
+
+<h1 align="center">Shopify Sales Analysis</h1>
 
 ### Business Intelligence Project Brief · An Interactive Power BI Dashboard
 
