@@ -1,4 +1,4 @@
-# Shopify Sales Analysis
+#center Shopify Sales Analysis
 
 ### Business Intelligence Project Brief · An Interactive Power BI Dashboard
 
