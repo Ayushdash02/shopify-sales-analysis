@@ -4,7 +4,9 @@
 
 <h1 align="center">Shopify Sales Analysis</h1>
 
-### Business Intelligence Project Brief · An Interactive Power BI Dashboard
+<p align="center">
+  <strong>Business Intelligence Project Brief · An Interactive Power BI Dashboard</strong>
+</p>
 
 <p align="center">
   <img src="preview/shopify-logo.png" alt="Shopify Logo" width="110"/>
