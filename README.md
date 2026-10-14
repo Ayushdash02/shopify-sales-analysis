@@ -72,6 +72,11 @@ The dashboard provides an interactive view of key performance indicators, revenu
 
 Explore the analytical pages of the Shopify Sales Analysis dashboard.
 
+### 🏠 1. Home
+
+![Home](preview/home-page.jpg)
+
+
 ### 🏠 1. Executive Overview
 
 ![Executive Overview](preview/Executive%20Overview.png)
