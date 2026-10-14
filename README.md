@@ -79,37 +79,37 @@ Explore the analytical pages of the Shopify Sales Analysis dashboard.
 
 ### 🏠 1. Executive Overview
 
-![Executive Overview](preview/Executive%20Overview.png)
+![Executive Overview](preview/executive-sales.jpg)
 
 *Provides a consolidated view of business KPIs and overall sales performance.*
 
 ### 📈 2. Sales Performance
 
-![Sales Performance](preview/Sales%20Performance.png)
+![Sales Performance](preview/sales-performance.jpg)
 
 *Analyzes revenue trends, sales performance, and changes over time.*
 
 ### 👥 3. Customer Analytics
 
-![Customer Analytics](preview/Customer%20Analytics.png)
+![Customer Analytics](preview/customer-analytics.jpg)
 
 *Explores customer activity, purchasing patterns, and customer value.*
 
 ### 🛍️ 4. Product Analysis
 
-![Product Analysis](preview/Product%20Analysis.png)
+![Product Analysis](preview/product-performance-&-geographic-analysis.jpg)
 
 *Evaluates product performance and identifies key sales contributors.*
 
 ### 🌍 5. Geographic Analysis
 
-![Geographic Analysis](preview/Geographic%20Analysis.png)
+![Geographic Analysis](preview/geographic-sales.jpg)
 
 *Examines sales distribution across countries, provinces, and regions.*
 
 ### 🔄 6. Customer Retention
 
-![Customer Retention](preview/Customer%20Retention.png)
+![Customer Retention](preview/customer-retention-&-loyalty-analytics.jpg)
 
 *Analyzes repeat purchasing behavior and customer retention patterns.*
 
